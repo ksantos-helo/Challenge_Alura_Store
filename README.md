@@ -9,6 +9,7 @@ Este projeto apresenta uma análise estratégica de desempenho das quatro unidad
 A análise foi conduzida com foco executivo, utilizando indicadores financeiros, operacionais e de experiência do cliente para gerar uma recomendação orientada por dados.
 
 Este projeto demonstra capacidade de:
+
 ✔  Pensamento analítico avançado  
 ✔  Interpretação estratégica de métricas  
 ✔  Comunicação executiva  
