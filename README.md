@@ -89,7 +89,65 @@ A Loja 4 possui o menor custo médio de frete, demonstrando eficiência operacio
 No entanto, essa vantagem não compensa sua menor geração de receita.
 
 ---
+# 📦 Análise de Produtos Mais e Menos Vendidos
 
+A análise de volume de vendas por produto foi realizada com o objetivo de identificar:
+
+- Produtos com maior tração comercial  
+- Itens com baixa rotatividade  
+- Possíveis oportunidades de otimização de portfólio  
+- Riscos de estoque parado  
+
+A consolidação considerou o total de vendas agregadas entre todas as lojas.
+
+---
+
+## 📊 Visualização – Volume de Vendas por Produto
+
+![Produtos Mais e Menos Vendidos](images/produtos_mais_e_menos_vendidos.png)
+
+---
+
+## 🔎 Principais Insights Estratégicos
+
+### 🟢 Produtos Mais Vendidos
+
+Os itens com maior volume de vendas demonstram:
+
+✔ Forte aderência ao mercado  
+✔ Maior giro de estoque  
+✔ Potencial de expansão comercial  
+✔ Prioridade em campanhas promocionais  
+
+Produtos líderes tendem a impactar diretamente o faturamento consolidado e devem ser monitorados como ativos estratégicos do portfólio.
+
+---
+
+### 🔴 Produtos Menos Vendidos
+
+Os itens com menor volume de vendas indicam:
+
+➡️ Baixa atratividade comercial  
+➡️ Possível desalinhamento com demanda  
+➡️ Risco de capital imobilizado em estoque  
+➡️ Necessidade de revisão de precificação ou posicionamento  
+
+---
+
+## 🎯 Implicações para o Negócio
+
+A análise permite:
+
+✔ Otimização do mix de produtos  
+✔ Melhor alocação de capital  
+✔ Estratégia orientada por performance real  
+✔ Suporte a decisões de descontinuação ou reforço comercial  
+
+A gestão estratégica do portfólio é fundamental para maximizar margem e eficiência operacional.
+
+
+
+---
 # 🧠 Consolidação Estratégica
 
 Ao integrar os indicadores:
